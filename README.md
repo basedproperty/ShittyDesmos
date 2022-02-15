@@ -1,5 +1,5 @@
 # ShittyDesmos
-Graphing Calculator made in Synapse X's Drawing API
+Graphing Calculator made in Synapse X's Drawing API (should work on most exploits)
 
 **Usage**
 
